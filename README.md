@@ -7,9 +7,9 @@
 
 ---
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **AWS** , **CI/CD** , **Kubernetes**
 
-- 💬 Ask me about **React** , **Angular** , **Express**
+- 💬 Ask me about **Angular** , **Express** , **ASP.NET**
 
 - 📫 How to reach me **danushkamdissanayaka@gmail.com**
 
