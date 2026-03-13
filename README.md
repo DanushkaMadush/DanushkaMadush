@@ -6,6 +6,10 @@
 
 ### Full Stack Developer
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=danushkamadush&label=PROFILE+VIEWS&color=blue&style=flat" alt="profile views"/>
+</p>
+
 </div>
 
 ---
