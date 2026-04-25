@@ -2,148 +2,158 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzemI2ZGlobTh0YTNkcXNudXZhbDk4c3Fka2FlZDRlcXZ2Yjd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
 
-# Hi , I'm Danushka Madushan
+<h1>Hi , I'm Danushka Madushan</h1>
+<h3>Full Stack Developer</h3>
 
-### Full Stack Developer
-
-<p align="center">
+<p>
 <img src="https://komarev.com/ghpvc/?username=danushkamadush&label=PROFILE+VIEWS&color=blue&style=flat" alt="profile views"/>
 </p>
 
 </div>
 
----
+<hr/>
 
-##  About Me
+<h2 align="left">About Me</h2>
 
--  Full Stack Developer specializing in **Angular, ASP.NET Core, React, and DevOps automation**
--  Experienced in building **microservices-based enterprise systems**
--  Interested in **Cloud Infrastructure, CI/CD pipelines, and scalable backend systems**
--  Currently learning **AWS, Kubernetes, and advanced DevOps practices**
--  Ask me about **Angular, ASP.NET Core, Node.js, REST APIs**
+<div align="left">
 
----
+<p>Full Stack Developer specializing in <b>Angular, ASP.NET Core, React, and DevOps automation</b></p>
+<p>Experienced in building <b>microservices-based enterprise systems</b></p>
+<p>Interested in <b>Cloud Infrastructure, CI/CD pipelines, and scalable backend systems</b></p>
+<p>Currently learning <b>AWS, Kubernetes, and advanced DevOps practices</b></p>
+<p>Ask me about <b>Angular, ASP.NET Core, Node.js, REST APIs</b></p>
 
-##  Featured Projects
+</div>
 
-###  HelpdeskPro
-Enterprise helpdesk system with ticket management and role-based access.
+<hr/>
 
-**Tech:** ASP.NET Core • Angular • SQL Server
+<h2 align="left">Featured Projects</h2>
 
----
+<h3 align="left">HelpdeskPro</h3>
+<p align="left">Enterprise helpdesk system with ticket management and role-based access.</p>
+<p align="left"><b>Tech:</b> ASP.NET Core • Angular • SQL Server</p>
 
-###  HelpdeskPro Mobile
-Mobile client for the HelpdeskPro platform.
+<hr/>
 
-**Tech:** Flutter • REST APIs
+<h3 align="left">HelpdeskPro Mobile</h3>
+<p align="left">Mobile client for the HelpdeskPro platform.</p>
+<p align="left"><b>Tech:</b> Flutter • REST APIs</p>
 
----
+<hr/>
 
-###  Email Service
-Reusable microservice for centralized email notifications.
+<h3 align="left">Email Service</h3>
+<p align="left">Reusable microservice for centralized email notifications.</p>
+<p align="left"><b>Tech:</b> Node.js • Express • SMTP</p>
 
-**Tech:** Node.js • Express • SMTP
+<hr/>
 
----
+<h3 align="left">PDF Extractor</h3>
+<p align="left">Extracts structured data from PDF files.</p>
+<p align="left"><b>Tech:</b> Python</p>
 
-###  PDF Extractor
-Extracts structured data from PDF files.
+<hr/>
 
-**Tech:** Python
+<h3 align="left">DevOps CI/CD Pipeline</h3>
+<p align="left">Automated build, test, and deployment pipeline.</p>
+<p align="left"><b>Tech:</b> GitHub Actions • AWS EC2 • Docker</p>
 
----
+<hr/>
 
-###  DevOps CI/CD Pipeline
-Automated build, test, and deployment pipeline.
+<h2 align="left">Languages and Tools</h2>
 
-**Tech:** GitHub Actions • AWS EC2 • Docker
+<h3 align="left">Frontend Technologies</h3>
 
----
-
-##  Languages and Tools
-
-<p align="left">  
-
-<img src="https://github.com/danushkacodeolima/danushkacodeolima/assets/170293942/7e5c9162-1ef8-4822-ad65-0722bffe566f" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dart/dart-plain.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="40" height="40"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50"/>
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50" height="50"/>
-
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
 </p>
 
----
+<hr/>
 
-##  GitHub Stats
+<h3 align="left">Backend Technologies</h3>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=danushkamadush&layout=compact&theme=tokyonight)
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+</p>
 
----
+<hr/>
 
-##  Currently Learning
+<h3 align="left">Database</h3>
 
-- Kubernetes
-- Advanced AWS Architecture
-- Scalable Microservices Design
-- DevOps Automation
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azuresqldatabase/azuresqldatabase-original.svg" width="50"/>
+</p>
 
----
+<hr/>
 
-##  Connect With Me
+<h3 align="left">DevOps & Tools</h3>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50"/>
+</p>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+</p>
+
+<hr/>
+
+<h3 align="left">Mobile</h3>
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" width="50"/>
+&nbsp;&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" width="50"/>
+</p>
+
+<hr/>
+
+<h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-<a href="https://www.linkedin.com/in/danushka-madushan-dev" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-</a>
-
-<a href="mailto:danushkamdissanayaka@gmail.com">
-<img align="center" src="https://img.icons8.com/fluency/48/gmail.png" height="30" width="40"/>
-</a>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkamadush&layout=compact&theme=tokyonight"/>
 </p>
 
----
+<hr/>
+
+<h2 align="left">Currently Learning</h2>
+
+<div align="left">
+<p>Kubernetes</p>
+<p>Advanced AWS Architecture</p>
+<p>Scalable Microservices Design</p>
+<p>DevOps Automation</p>
+</div>
+
+<hr/>
+
+<h2 align="left">Connect With Me</h2>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/danushka-madushan-dev" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30"/></a>&nbsp;<a href="mailto:danushkamdissanayaka@gmail.com"><img src="https://img.icons8.com/fluency/48/gmail.png" height="30"/></a>
+</p>
+
+<hr/>
