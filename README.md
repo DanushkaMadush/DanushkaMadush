@@ -47,14 +47,14 @@
 
 <h3 align="left">HelpdeskPro Mobile</h3>
 <p align="left">Mobile client for the HelpdeskPro platform.</p>
-<p align="left"><b>Tech:</b> Flutter • REST APIs</p>
+<p align="left"><b>Tech:</b> EXPO • ReactNative</p>
 <p><a href="https://github.com/DanushkaMadush/HelpDeskPro-Mobile.git" target="_blank">View Repository</a></p>
 
 <hr/>
 
 <h3 align="left">Email Service</h3>
 <p align="left">Reusable microservice for centralized email notifications.</p>
-<p align="left"><b>Tech:</b> Node.js • Express • SMTP</p>
+<p align="left"><b>Tech:</b> ASP.NET Core • SMTP</p>
 <p><a href="https://github.com/DanushkaMadush/EmailService.git" target="_blank">View Repository</a></p>
 
 <hr/>
