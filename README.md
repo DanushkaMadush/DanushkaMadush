@@ -3,7 +3,7 @@
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExczZzemI2ZGlobTh0YTNkcXNudXZhbDk4c3Fka2FlZDRlcXZ2Yjd5ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/M9kgjEsLG6LMbYC9dl/giphy.gif" width="300"/>
 
 <h1>Hi , I'm Danushka Madushan</h1>
-<h3>Full Stack Developer</h3>
+<h3>Associate Software Engineer</h3>
 
 <p>
 <img src="https://komarev.com/ghpvc/?username=danushkamadush&label=PROFILE+VIEWS&color=blue&style=flat" alt="profile views"/>
@@ -141,7 +141,22 @@
 <h2 align="left">GitHub Stats</h2>
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danushkamadush&layout=compact&theme=tokyonight"/>
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanushkaMadush&show_icons=true&theme=tokyonight" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanushkaMadush&layout=compact&theme=tokyonight" 
+    height="170"
+  />
+</p>
+
+<p align="left">
+  <img 
+    src="https://streak-stats.demolab.com?user=DanushkaMadush&theme=tokyonight" 
+    height="170"
+  />
 </p>
 
 <hr/>
