@@ -29,33 +29,40 @@
 
 <h2 align="left">Featured Projects</h2>
 
+<hr/>
+
+<h3 align="left">Easy Apply</h3>
+<p align="left">Applying for jobs made easy.</p>
+<p align="left"><b>Tech:</b> Next.js</p>
+<p><a href="https://github.com/DanushkaMadush/EasyApply" target="_blank">View Repository</a></p>
+
+<hr/>
+
 <h3 align="left">HelpdeskPro</h3>
 <p align="left">Enterprise helpdesk system with ticket management and role-based access.</p>
-<p align="left"><b>Tech:</b> ASP.NET Core • Angular • SQL Server</p>
+<p align="left"><b>Tech:</b> ASP.NET Core • React • SQL Server</p>
+<p><a href="https://github.com/DanushkaMadush/HelpDeskPro.git" target="_blank">View Repository</a></p>
 
 <hr/>
 
 <h3 align="left">HelpdeskPro Mobile</h3>
 <p align="left">Mobile client for the HelpdeskPro platform.</p>
 <p align="left"><b>Tech:</b> Flutter • REST APIs</p>
+<p><a href="https://github.com/DanushkaMadush/HelpDeskPro-Mobile.git" target="_blank">View Repository</a></p>
 
 <hr/>
 
 <h3 align="left">Email Service</h3>
 <p align="left">Reusable microservice for centralized email notifications.</p>
 <p align="left"><b>Tech:</b> Node.js • Express • SMTP</p>
-
-<hr/>
-
-<h3 align="left">PDF Extractor</h3>
-<p align="left">Extracts structured data from PDF files.</p>
-<p align="left"><b>Tech:</b> Python</p>
+<p><a href="https://github.com/DanushkaMadush/EmailService.git" target="_blank">View Repository</a></p>
 
 <hr/>
 
 <h3 align="left">DevOps CI/CD Pipeline</h3>
 <p align="left">Automated build, test, and deployment pipeline.</p>
 <p align="left"><b>Tech:</b> GitHub Actions • AWS EC2 • Docker</p>
+<p><a href="https://github.com/DanushkaMadush/DevOps.git" target="_blank">View Repository</a></p>
 
 <hr/>
 
